@@ -111,7 +111,7 @@ export default function Contact() {
                   </motion.a>
 
                   <motion.a
-                    href="https://wa.me/+9203160104467"
+                    href="https://wa.me/+923298379456"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center justify-between p-5 rounded-xl bg-[#101010] border border-white/10 hover:border-emerald-400/30 transition-all duration-300"
@@ -136,7 +136,7 @@ export default function Contact() {
                         </svg>
                       </div>
                       <p className="text-foreground group-hover:text-white transition-colors text-sm">
-                        (+92) 3160104467
+                        (+92) 3298379456
                       </p>
                     </div>
                     <div className="hidden sm:block text-white/40 group-hover:text-emerald-400 transition-colors">
